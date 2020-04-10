@@ -19,10 +19,11 @@
 
 
 #IDEA
-./idea
+.idea
 
 .DS_Store 
 
+.idea/.gitignore
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
